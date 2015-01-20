@@ -119,3 +119,8 @@ header .hide-completed {
     width: 150px;
     clear: both;
   }
+
+  .new-task input {
+    padding-bottom: 5px;
+  }
+}
